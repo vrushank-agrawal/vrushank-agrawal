@@ -51,6 +51,16 @@
 
 ### Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://www.goodreads.com/review/show/4646461616?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐⭐⭐⭐)
+- [The Psychology of Money](https://www.goodreads.com/review/show/4860941087?utm_medium=api&utm_source=rss) by Morgan Housel (⭐⭐⭐⭐⭐)
+- [Influence: Science and Practice](https://www.goodreads.com/review/show/4586179791?utm_medium=api&utm_source=rss) by Robert B. Cialdini (⭐⭐⭐⭐)
+- [The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now](https://www.goodreads.com/review/show/4411778333?utm_medium=api&utm_source=rss) by Meg Jay (⭐⭐⭐⭐⭐)
+- [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/review/show/4646496215?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐⭐⭐⭐)
+- [The Meaning of It All: Thoughts of a Citizen-Scientist](https://www.goodreads.com/review/show/4820788766?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐⭐⭐)
+- [The Practice of Not Thinking: A Guide to Mindful Living](https://www.goodreads.com/review/show/4804734439?utm_medium=api&utm_source=rss) by Ryūnosuke Koike (⭐⭐⭐⭐)
+- [The C Programming Language](https://www.goodreads.com/review/show/4708888485?utm_medium=api&utm_source=rss) by Brian W. Kernighan (⭐⭐⭐⭐⭐)
+- [How to Solve It: A New Aspect of Mathematical Method](https://www.goodreads.com/review/show/4738654681?utm_medium=api&utm_source=rss) by George Pólya (⭐⭐⭐)
+- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/review/show/4738655333?utm_medium=api&utm_source=rss) by Randal E. Bryant (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
