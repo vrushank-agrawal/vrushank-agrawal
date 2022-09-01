@@ -50,7 +50,8 @@
 ---
 
 ### Recent books I have read
-<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
 - 👯 I’m looking to collaborate on ...
