@@ -17,5 +17,5 @@ jobs:
           goodreads_user_id: "19788411"
           shelf: "read"
           max_books_count: "10"
-          readme_file_path: "././README.md"
+          readme_file_path: "./README.md"
           sort_by_fields: ">user_read_at"
