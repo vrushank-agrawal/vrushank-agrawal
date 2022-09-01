@@ -1,23 +1,22 @@
 ### Hi there 👋
 
+### Thank you for visiting! Here's a joke before we move ahead
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
+
+---
+
 ### :man_technologist: About Me :
 - :telescope: I’m working as a freelance Software Engineer and contributing to backend development for web applications.
 
 - :seedling: Exploring cybersecurity and blockchain technologies.
 
-- :zap: In my free time, I:
-  -  read tech articles and non-fiction books.
+- :zap: In my free time I:
+  -  read tech articles
   -  play guitar
   -  invest in stocks
-  -  cook
+  -  cook Indian dishes
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
-
----
-
-### :computer: My Projects :
-
-
 
 ---
 
@@ -44,10 +43,16 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushank-agrawal&count_private=true&theme=dark&show_icons=true)
 
+<!-- COMMENT 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrushank-agrawal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
 
 ---
-<!--
+
+### Recent books I have read
+<!-- GOODREADS-LIST:START --><!-- GOODREADS-LIST:END -->
+
+<!-- COMMENT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
