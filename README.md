@@ -6,7 +6,7 @@
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working on the open_source [Crazyflie-firmware] (https://github.com/bitcraze/crazyflie-firmware) code for quadcopter control, to understand the overall code architecture and hardware communication.
+- :telescope: I’m working on the open-source [Crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) code for quadcopter control, to understand the overall code architecture and hardware communication.
 
 - :seedling: Exploring cybersecurity and blockchain technologies.
 
