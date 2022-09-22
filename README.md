@@ -1,23 +1,25 @@
 ### Hi there 👋
 
-### Thank you for visiting! Here's a welcome joke
+### Here's a welcome joke for visiting me!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 ---
 
 ### :man_technologist: About Me :
-- :telescope: I’m working on the open-source [Crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) code for quadcopter control, to understand the overall code architecture and hardware communication.
+- :telescope: I’m working on the open-source [Crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) code to understand the overall code architecture and hardware communication for quadcopter control.
 
-- :seedling: Exploring cybersecurity and blockchain technologies.
+- :detective: Exploring cybersecurity and blockchain technologies.
 
-- :zap: In my free time I:
-  -  read tech articles
-  -  play guitar
-  -  invest in stocks
-  -  cook Indian dishes
+- :video_game: In my free time I:
+  -  :notebook_with_decorative_cover: Read self-help and historical books
+  -  :guitar: Play guitar -- a mixture of rock and classical
+  -  :chart_with_upwards_trend: Invest in stocks
+  -  :man_cook: Cook Indian food
+  -  :lotus_position_man: Meditate
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
+- ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -49,7 +51,7 @@
 
 ---
 
-### Recent books I have read
+### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
 - [The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://www.goodreads.com/review/show/4646461616?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐⭐⭐⭐)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4860941087?utm_medium=api&utm_source=rss) by Morgan Housel (⭐⭐⭐⭐⭐)
@@ -67,5 +69,5 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+
 -->
