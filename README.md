@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Here's a welcome joke for visiting me!
+### Here's a welcome joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
 
 ---
