@@ -17,7 +17,7 @@ jobs:
           goodreads_user_id: "84989642"
           # goodreads_user_id: "92930971"
           shelf: "read"
-          max_books_count: "10"
+          max_books_count: "5"
           # readme_file_path: "./README.md"
           sort_by_fields: ">user_read_at"
           template: "- [$title]($url) by $author ($my_rating_stars)"
