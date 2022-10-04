@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-### Here's a welcome joke!
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
-
 ---
 
 ### :man_technologist: About Me :
@@ -41,11 +38,12 @@
 
 ---
 
+<!-- COMMENT 
+
 ### :fire: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushank-agrawal&count_private=true&theme=dark&show_icons=true)
 
-<!-- COMMENT 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrushank-agrawal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
 
@@ -71,3 +69,6 @@
 - 💬 Ask me about ...
 
 -->
+
+### Here's a joke!
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
