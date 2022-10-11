@@ -16,7 +16,10 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
+<!-- COMMENT 
 - ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
+-->
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -37,12 +40,20 @@
 </div>
 
 ---
-
-<!-- COMMENT 
-
 ### :fire: My Stats :
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushank-agrawal&count_private=true&theme=dark&show_icons=true)
+
+---
+### Polytechnique Courses :
+
+- I have added many of my Polytechnique courses on Github. 
+- These contain the usual material such as TDs or projects. 
+- I have tried to keep them as complete as possible for future reference for anyone.
+- The questions might change over the years (quite unlikely) but these repos can still be accessed for general understanding.
+
+<!-- COMMENT 
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrushank-agrawal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
