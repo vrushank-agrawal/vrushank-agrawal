@@ -62,11 +62,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [Rich Habits: The Daily Success Habits of Wealthy Individuals: Find Out How the Rich Get So Rich (the Secrets to Financial Success Revealed)](https://www.goodreads.com/review/show/5151914948?utm_medium=api&utm_source=rss) by Thomas C. Corley (⭐⭐⭐⭐)
 - [The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://www.goodreads.com/review/show/4646461616?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐⭐⭐⭐)
 - [The Psychology of Money](https://www.goodreads.com/review/show/4860941087?utm_medium=api&utm_source=rss) by Morgan Housel (⭐⭐⭐⭐⭐)
 - [Influence: Science and Practice](https://www.goodreads.com/review/show/4586179791?utm_medium=api&utm_source=rss) by Robert B. Cialdini (⭐⭐⭐⭐)
 - [The Defining Decade: Why Your Twenties Matter—And How to Make the Most of Them Now](https://www.goodreads.com/review/show/4411778333?utm_medium=api&utm_source=rss) by Meg Jay (⭐⭐⭐⭐⭐)
-- [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/review/show/4646496215?utm_medium=api&utm_source=rss) by Richard P. Feynman (⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
