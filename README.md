@@ -62,11 +62,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources](https://www.goodreads.com/review/show/5266406775?utm_medium=api&utm_source=rss) by Javier Blas (⭐⭐⭐⭐⭐)
+- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/4413070888?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐⭐)
 - [The Order of Time](https://www.goodreads.com/review/show/5151929063?utm_medium=api&utm_source=rss) by Carlo Rovelli (⭐⭐⭐⭐)
 - [Benjamin Franklin: An American Life](https://www.goodreads.com/review/show/4549229621?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐⭐⭐⭐⭐)
 - [Rich Habits: The Daily Success Habits of Wealthy Individuals: Find Out How the Rich Get So Rich (the Secrets to Financial Success Revealed)](https://www.goodreads.com/review/show/5151914948?utm_medium=api&utm_source=rss) by Thomas C. Corley (⭐⭐⭐)
-- [The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams and Reaching Your Destiny](https://www.goodreads.com/review/show/4646461616?utm_medium=api&utm_source=rss) by Robin S. Sharma (⭐⭐⭐⭐)
-- [The Psychology of Money](https://www.goodreads.com/review/show/4860941087?utm_medium=api&utm_source=rss) by Morgan Housel (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
