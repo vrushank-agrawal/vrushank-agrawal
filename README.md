@@ -62,11 +62,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5292875115?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐⭐⭐)
+- [Stillness Is the Key](https://www.goodreads.com/review/show/5285760401?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐⭐⭐)
+- [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](https://www.goodreads.com/review/show/5285763313?utm_medium=api&utm_source=rss) by Seth Godin (⭐⭐⭐⭐)
 - [The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources](https://www.goodreads.com/review/show/5266406775?utm_medium=api&utm_source=rss) by Javier Blas (⭐⭐⭐⭐⭐)
 - [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/4413070888?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐⭐)
-- [The Order of Time](https://www.goodreads.com/review/show/5151929063?utm_medium=api&utm_source=rss) by Carlo Rovelli (⭐⭐⭐⭐)
-- [Benjamin Franklin: An American Life](https://www.goodreads.com/review/show/4549229621?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐⭐⭐⭐⭐)
-- [Rich Habits: The Daily Success Habits of Wealthy Individuals: Find Out How the Rich Get So Rich (the Secrets to Financial Success Revealed)](https://www.goodreads.com/review/show/5151914948?utm_medium=api&utm_source=rss) by Thomas C. Corley (⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
