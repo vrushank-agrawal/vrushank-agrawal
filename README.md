@@ -62,11 +62,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/review/show/5292902285?utm_medium=api&utm_source=rss) by Steven Pressfield (⭐⭐)
 - [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5292875115?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐⭐⭐)
 - [Stillness Is the Key](https://www.goodreads.com/review/show/5285760401?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐⭐⭐)
 - [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](https://www.goodreads.com/review/show/5285763313?utm_medium=api&utm_source=rss) by Seth Godin (⭐⭐⭐⭐)
 - [The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources](https://www.goodreads.com/review/show/5266406775?utm_medium=api&utm_source=rss) by Javier Blas (⭐⭐⭐⭐⭐)
-- [Give and Take: A Revolutionary Approach to Success](https://www.goodreads.com/review/show/4413070888?utm_medium=api&utm_source=rss) by Adam M. Grant (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
