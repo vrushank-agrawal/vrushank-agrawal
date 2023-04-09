@@ -62,11 +62,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [Play of Consciousness: A Spiritual Autobiography](https://www.goodreads.com/review/show/2958003453?utm_medium=api&utm_source=rss) by Muktananda (⭐⭐⭐⭐⭐)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/5285760774?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐)
 - [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/review/show/5292902285?utm_medium=api&utm_source=rss) by Steven Pressfield (⭐⭐)
 - [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5292875115?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐⭐⭐)
 - [Stillness Is the Key](https://www.goodreads.com/review/show/5285760401?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐⭐⭐)
-- [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](https://www.goodreads.com/review/show/5285763313?utm_medium=api&utm_source=rss) by Seth Godin (⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
