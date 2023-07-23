@@ -61,11 +61,11 @@
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [Think and Grow Rich](https://www.goodreads.com/review/show/4674623812?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐⭐⭐⭐⭐)
 - [The Prophet](https://www.goodreads.com/review/show/5505444679?utm_medium=api&utm_source=rss) by Kahlil Gibran (⭐⭐⭐⭐⭐)
 - [Play of Consciousness: A Spiritual Autobiography](https://www.goodreads.com/review/show/2958003453?utm_medium=api&utm_source=rss) by Muktananda (⭐⭐⭐⭐⭐)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/5285760774?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐)
 - [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/review/show/5292902285?utm_medium=api&utm_source=rss) by Steven Pressfield (⭐⭐)
-- [Chop Wood Carry Water: How to Fall In Love With the Process of Becoming Great](https://www.goodreads.com/review/show/5292875115?utm_medium=api&utm_source=rss) by Joshua Medcalf (⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
