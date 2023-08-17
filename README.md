@@ -3,12 +3,12 @@
 ---
 
 ### :man_technologist: About Me :
-<!-- - :telescope: I’m working on the open-source [Crazyflie-firmware](https://github.com/bitcraze/crazyflie-firmware) code to understand the overall code architecture and hardware communication for quadcopter control. -->
+- :telescope: As part of the Studio curriculum at Cornell Tech, I’m working on the problem<br>_**How might we help school-age children to ensure they are learning despite the use of generative AI tools?**_
 
-- :detective: Exploring cybersecurity and blockchain technologies.
+- :detective: Taking ML and Business Strategy courses at Cornell Tech.
 
 - :video_game: In my free time I:
-  -  :notebook_with_decorative_cover: Read non-finctional books
+  -  :notebook_with_decorative_cover: Read seklf-help, business, and spiritual books
   -  :guitar: Play guitar -- a mixture of rock and classical
   -  :chart_with_upwards_trend: Invest in stocks
   -  :man_cook: Cook Indian food
