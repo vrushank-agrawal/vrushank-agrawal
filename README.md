@@ -8,11 +8,13 @@
 - :detective: Taking ML and Business Strategy courses at Cornell Tech.
 
 - :video_game: In my free time I:
-  -  :notebook_with_decorative_cover: Read seklf-help, business, and spiritual books
-  -  :guitar: Play guitar -- a mixture of rock and classical
-  -  :chart_with_upwards_trend: Invest in stocks
+  -  :notebook_with_decorative_cover: Read self-help, business, and spiritual books
+  -  :guitar: Play guitar (a mixture of rock and classical)
   -  :man_cook: Cook Indian food
   -  :lotus_position_man: Meditate
+<!-- COMMENT 
+  -  :chart_with_upwards_trend: Invest in stocks
+-->
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
