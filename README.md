@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas that solve a real problem and love to collaborate. Feel free to connect if you are looking for someone with a technical background like myself!
+
 ---
 
 ### :man_technologist: About Me :
