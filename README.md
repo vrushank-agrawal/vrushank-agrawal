@@ -56,11 +56,11 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/5285745578?utm_medium=api&utm_source=rss) by Eric Jorgenson (⭐⭐⭐⭐)
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4674623812?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐⭐⭐⭐⭐)
 - [The Prophet](https://www.goodreads.com/review/show/5505444679?utm_medium=api&utm_source=rss) by Kahlil Gibran (⭐⭐⭐⭐⭐)
 - [Play of Consciousness: A Spiritual Autobiography](https://www.goodreads.com/review/show/2958003453?utm_medium=api&utm_source=rss) by Muktananda (⭐⭐⭐⭐⭐)
 - [Ego Is the Enemy](https://www.goodreads.com/review/show/5285760774?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐)
-- [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/review/show/5292902285?utm_medium=api&utm_source=rss) by Steven Pressfield (⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
