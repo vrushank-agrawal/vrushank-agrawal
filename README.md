@@ -56,11 +56,11 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5285787609?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐⭐⭐⭐⭐)
 - [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/5285745578?utm_medium=api&utm_source=rss) by Eric Jorgenson (⭐⭐⭐⭐)
+- [Talking to Humans](https://www.goodreads.com/review/show/5780829380?utm_medium=api&utm_source=rss) by Giff Constable (⭐⭐⭐⭐)
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4674623812?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐⭐⭐⭐⭐)
-- [The Prophet](https://www.goodreads.com/review/show/5505444679?utm_medium=api&utm_source=rss) by Kahlil Gibran (⭐⭐⭐⭐⭐)
-- [Play of Consciousness: A Spiritual Autobiography](https://www.goodreads.com/review/show/2958003453?utm_medium=api&utm_source=rss) by Muktananda (⭐⭐⭐⭐⭐)
-- [Ego Is the Enemy](https://www.goodreads.com/review/show/5285760774?utm_medium=api&utm_source=rss) by Ryan Holiday (⭐⭐⭐)
+- [The Concise Yoga Vasistha](https://www.goodreads.com/review/show/5776151998?utm_medium=api&utm_source=rss) by Venkatesananda (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
