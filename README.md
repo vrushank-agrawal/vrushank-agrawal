@@ -3,6 +3,7 @@
 I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas that solve a real problem and love to collaborate. Feel free to connect if you are looking for someone with a technical background like myself!
 
 ---
+<!-- COMMENT 
 
 ### :man_technologist: About Me :
 - :telescope: As part of the Studio curriculum at Cornell Tech, I’m working on the problem<br>_**How might we help school-age children to ensure they are learning despite the use of generative AI tools?**_
@@ -14,7 +15,6 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
   -  :guitar: Play guitar (a mixture of rock and classical)
   -  :man_cook: Cook Indian food
   -  :lotus_position_man: Meditate
-<!-- COMMENT 
   -  :chart_with_upwards_trend: Invest in stocks
 -->
 
@@ -54,16 +54,17 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 
 ---
 
+
+<!-- COMMENT
 ### :man_scientist: Recent books I have read
-<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:START --
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5285787609?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐⭐⭐⭐⭐)
 - [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/5285745578?utm_medium=api&utm_source=rss) by Eric Jorgenson (⭐⭐⭐⭐)
 - [Talking to Humans](https://www.goodreads.com/review/show/5780829380?utm_medium=api&utm_source=rss) by Giff Constable (⭐⭐⭐⭐)
 - [Think and Grow Rich](https://www.goodreads.com/review/show/4674623812?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐⭐⭐⭐⭐)
 - [The Concise Yoga Vasistha](https://www.goodreads.com/review/show/5776151998?utm_medium=api&utm_source=rss) by Venkatesananda (⭐⭐⭐⭐⭐)
-<!-- GOODREADS-LIST:END -->
+<!-- GOODREADS-LIST:END --
 
-<!-- COMMENT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -72,13 +73,3 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 
 ### Here's a joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham)
-
-
----
-### Polytechnique Courses :
-
-- I have added many of my Polytechnique courses on Github. 
-- These contain the usual material such as TDs or projects. 
-- I have tried to keep them as complete as possible for future reference for anyone.
-- The questions might change over the years (quite unlikely) but these repos can still be accessed for general understanding.
-
