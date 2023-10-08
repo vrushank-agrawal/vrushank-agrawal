@@ -2,8 +2,8 @@
 
 I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas that solve a real problem and love to collaborate. Feel free to connect if you are looking for someone with a technical background like myself!
 
----
 <!-- COMMENT 
+---
 
 ### :man_technologist: About Me :
 - :telescope: As part of the Studio curriculum at Cornell Tech, I’m working on the problem<br>_**How might we help school-age children to ensure they are learning despite the use of generative AI tools?**_
@@ -22,8 +22,8 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 
 <!-- COMMENT 
 - ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
--->
 
+-->
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -42,18 +42,15 @@ I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas tha
 </div>
 
 ---
+<!-- COMMENT 
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrushank-agrawal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- COMMENT 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushank-agrawal&count_private=true&theme=dark&show_icons=true)
 
 -->
-
----
-
 
 <!-- COMMENT
 ### :man_scientist: Recent books I have read
