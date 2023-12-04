@@ -18,7 +18,7 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
   -  :chart_with_upwards_trend: Invest in stocks
 -->
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
 <!-- COMMENT 
 - ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
