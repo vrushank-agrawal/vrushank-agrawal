@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a MEng in CS student at Cornell Tech. I am open to discussing new ideas that solve a real problem and love to collaborate. Feel free to connect if you are looking for someone with a technical background like myself!
+I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to discussing startup ideas. Feel free to connect if you are looking for someone with a technical background!
 
 <!-- COMMENT 
 ---
