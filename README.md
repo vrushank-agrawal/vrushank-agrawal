@@ -57,7 +57,6 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 
 -->
 
-<!-- COMMENT
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START --
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5285787609?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐⭐⭐⭐⭐)
@@ -67,6 +66,7 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 - [The Concise Yoga Vasistha](https://www.goodreads.com/review/show/5776151998?utm_medium=api&utm_source=rss) by Venkatesananda (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END --
 
+<!-- COMMENT
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
