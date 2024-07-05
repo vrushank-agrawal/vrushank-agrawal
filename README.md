@@ -22,9 +22,9 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
+<!-- COMMENT 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrushank_agrawal/)
 
-<!-- COMMENT 
 - ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
 
 -->
