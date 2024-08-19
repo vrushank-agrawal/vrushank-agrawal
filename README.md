@@ -59,11 +59,11 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
-- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.goodreads.com/review/show/5285787609?utm_medium=api&utm_source=rss) by Ben Horowitz (⭐⭐⭐⭐⭐)
-- [The Almanack of Naval Ravikant: A Guide to Wealth and Happiness](https://www.goodreads.com/review/show/5285745578?utm_medium=api&utm_source=rss) by Eric Jorgenson (⭐⭐⭐⭐)
-- [Talking to Humans](https://www.goodreads.com/review/show/5780829380?utm_medium=api&utm_source=rss) by Giff Constable (⭐⭐⭐⭐)
-- [Think and Grow Rich](https://www.goodreads.com/review/show/4674623812?utm_medium=api&utm_source=rss) by Napoleon Hill (⭐⭐⭐⭐⭐)
-- [The Concise Yoga Vasistha](https://www.goodreads.com/review/show/5776151998?utm_medium=api&utm_source=rss) by Venkatesananda (⭐⭐⭐⭐⭐)
+- [The New Confessions of an Economic Hit Man](https://www.goodreads.com/review/show/6769838108?utm_medium=api&utm_source=rss) by John Perkins (⭐⭐⭐⭐)
+- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4855286295?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐⭐)
+- [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.goodreads.com/review/show/5592453526?utm_medium=api&utm_source=rss) by Ray Dalio (⭐⭐⭐⭐)
+- [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/review/show/5285752111?utm_medium=api&utm_source=rss) by Hans Rosling (⭐⭐⭐⭐)
+- [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4855287182?utm_medium=api&utm_source=rss) by Chris Voss (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
