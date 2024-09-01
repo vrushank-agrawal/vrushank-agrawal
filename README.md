@@ -18,15 +18,12 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
   -  :chart_with_upwards_trend: Invest in stocks
 -->
 
-[![Website](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vrushank.vercel.app/)
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://vrushank.vercel.app/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
 <!-- COMMENT 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrushank_agrawal/)
-
-- ⚡ Fun fact -> I am crazy about The Himalayas!! :mountain:
-
 -->
 ---
 
@@ -39,6 +36,7 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Git" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -47,15 +45,15 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 </div>
 
 ---
-<!-- COMMENT 
-
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrushank-agrawal&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<!-- COMMENT 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushank-agrawal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vrushank-agrawal&count_private=true&theme=dark&show_icons=true)
-
 -->
+
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
