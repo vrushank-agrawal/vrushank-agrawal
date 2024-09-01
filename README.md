@@ -59,11 +59,11 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The Panama Papers: The Untold India Story of the Trailblazing Global Offshore Investigation](https://www.goodreads.com/review/show/6788338523?utm_medium=api&utm_source=rss) by Ritu Sarin (⭐⭐⭐)
+- [The Panama Papers: Breaking the Story of How the Rich and Powerful Hide Their Money](https://www.goodreads.com/review/show/6788335546?utm_medium=api&utm_source=rss) by Frederik Obermaier (⭐⭐⭐⭐)
 - [The New Confessions of an Economic Hit Man](https://www.goodreads.com/review/show/6769838108?utm_medium=api&utm_source=rss) by John Perkins (⭐⭐⭐⭐)
-- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4855286295?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐⭐)
+- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4855286295?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐)
 - [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.goodreads.com/review/show/5592453526?utm_medium=api&utm_source=rss) by Ray Dalio (⭐⭐⭐⭐)
-- [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/review/show/5285752111?utm_medium=api&utm_source=rss) by Hans Rosling (⭐⭐⭐⭐)
-- [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/review/show/4855287182?utm_medium=api&utm_source=rss) by Chris Voss (⭐⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
