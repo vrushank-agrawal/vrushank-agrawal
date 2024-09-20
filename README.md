@@ -1,6 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&pause=60000&color=FFFFFF&center=true&vCenter=true&width=635&lines=Hello,+I'm+Vrushank+Agrawal." alt="Typing SVG"/>
+  </h1>
+</div>
 
-I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to discussing startup ideas. Feel free to connect from below if you are looking for someone with a technical background!
+I am a passionate Software Developer who is constantly working on innovative projects to learn and grow. I love to collaborate and am open to discussing news ideas. Feel free to contact me from below if you are looking for someone with a technical background!
 
 <!-- COMMENT 
 ---
@@ -18,7 +22,7 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
   -  :chart_with_upwards_trend: Invest in stocks
 -->
 
-[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://vrushank.vercel.app/)
+[![Website](https://img.shields.io/badge/Personal_Website-Up-green)](https://vrushank.vercel.app/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
@@ -37,6 +41,7 @@ I am a MEng in CS student at Cornell Tech. I love to collaborate and am open to 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Git" width="40" height="40"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
