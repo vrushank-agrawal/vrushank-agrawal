@@ -37,11 +37,11 @@ I am a passionate Software Developer who is constantly working on innovative pro
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [The Culture Code: The Secrets of Highly Successful Groups](https://www.goodreads.com/review/show/4824554254?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐⭐⭐⭐⭐)
 - [The Panama Papers: The Untold India Story of the Trailblazing Global Offshore Investigation](https://www.goodreads.com/review/show/6788338523?utm_medium=api&utm_source=rss) by Ritu Sarin (⭐⭐⭐)
 - [The Panama Papers: Breaking the Story of How the Rich and Powerful Hide Their Money](https://www.goodreads.com/review/show/6788335546?utm_medium=api&utm_source=rss) by Frederik Obermaier (⭐⭐⭐⭐)
 - [The New Confessions of an Economic Hit Man](https://www.goodreads.com/review/show/6769838108?utm_medium=api&utm_source=rss) by John Perkins (⭐⭐⭐⭐)
-- [How to Win Friends and Influence People](https://www.goodreads.com/review/show/4855286295?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐)
-- [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.goodreads.com/review/show/5592453526?utm_medium=api&utm_source=rss) by Ray Dalio (⭐⭐⭐⭐)
+- [How to Win Friends & Influence People](https://www.goodreads.com/review/show/4855286295?utm_medium=api&utm_source=rss) by Dale Carnegie (⭐⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
