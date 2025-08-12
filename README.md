@@ -6,7 +6,7 @@
 
 I am a software developer working at a young AI accelerator startup building the entire software stack for the chip from scratch. Personally, I love collaborating and am open to discussing new ideas. Feel free to contact me below if you are looking for someone with a technical background!
 
-[![Website](https://img.shields.io/badge/Personal_Website-Up-green)](https://vrushank.vercel.app/)
+[![Website](https://img.shields.io/badge/Personal_Website-Up-green)](https://vrushank-agrawal.com/)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrushank2001/)
 
