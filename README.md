@@ -37,11 +37,11 @@ I am a software developer working at a young AI accelerator startup building the
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
-- [The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future](https://www.goodreads.com/review/show/6841203887?utm_medium=api&utm_source=rss) by Chris Guillebeau (⭐⭐)
-- [The Culture Code: The Secrets of Highly Successful Groups](https://www.goodreads.com/review/show/4824554254?utm_medium=api&utm_source=rss) by Daniel Coyle (⭐⭐⭐⭐⭐)
-- [The Panama Papers: The Untold India Story of the Trailblazing Global Offshore Investigation](https://www.goodreads.com/review/show/6788338523?utm_medium=api&utm_source=rss) by Ritu Sarin (⭐⭐⭐)
-- [The Panama Papers: Breaking the Story of How the Rich and Powerful Hide Their Money](https://www.goodreads.com/review/show/6788335546?utm_medium=api&utm_source=rss) by Frederik Obermaier (⭐⭐⭐⭐)
-- [The New Confessions of an Economic Hit Man](https://www.goodreads.com/review/show/6769838108?utm_medium=api&utm_source=rss) by John Perkins (⭐⭐⭐⭐)
+- [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No](https://www.goodreads.com/review/show/6838818715?utm_medium=api&utm_source=rss) by Alex Hormozi (⭐⭐⭐⭐)
+- [The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life](https://www.goodreads.com/review/show/7657014616?utm_medium=api&utm_source=rss) by Sahil Bloom (⭐⭐⭐⭐⭐)
+- [JFK's Forgotten Crisis: Tibet, the CIA, and the Sino-Indian War](https://www.goodreads.com/review/show/7576725677?utm_medium=api&utm_source=rss) by Bruce Riedel (⭐⭐⭐⭐)
+- [#Tatastories: 40 Timeless Tales to Inspire You](https://www.goodreads.com/review/show/6509161753?utm_medium=api&utm_source=rss) by Harish Bhat (⭐⭐⭐)
+- [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/review/show/5151931673?utm_medium=api&utm_source=rss) by Randall Munroe (⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
