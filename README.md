@@ -37,11 +37,11 @@ I am a software developer working at a young AI accelerator startup building the
 
 ### :man_scientist: Recent books I have read
 <!-- GOODREADS-LIST:START -->
+- [Elon Musk](https://www.goodreads.com/review/show/7857323901?utm_medium=api&utm_source=rss) by Walter Isaacson (⭐⭐⭐⭐⭐)
 - [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No](https://www.goodreads.com/review/show/6838818715?utm_medium=api&utm_source=rss) by Alex Hormozi (⭐⭐⭐⭐)
 - [The 5 Types of Wealth: A Transformative Guide to Design Your Dream Life](https://www.goodreads.com/review/show/7657014616?utm_medium=api&utm_source=rss) by Sahil Bloom (⭐⭐⭐⭐⭐)
 - [JFK's Forgotten Crisis: Tibet, the CIA, and the Sino-Indian War](https://www.goodreads.com/review/show/7576725677?utm_medium=api&utm_source=rss) by Bruce Riedel (⭐⭐⭐⭐)
 - [#Tatastories: 40 Timeless Tales to Inspire You](https://www.goodreads.com/review/show/6509161753?utm_medium=api&utm_source=rss) by Harish Bhat (⭐⭐⭐)
-- [How To: Absurd Scientific Advice for Common Real-World Problems](https://www.goodreads.com/review/show/5151931673?utm_medium=api&utm_source=rss) by Randall Munroe (⭐⭐⭐)
 <!-- GOODREADS-LIST:END -->
 
 <!-- COMMENT
